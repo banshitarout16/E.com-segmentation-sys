@@ -1,6 +1,6 @@
 # *Ecommerce Customer Segmentation System*
 
-A Machine Learning project that segments e-commerce customers into meaningful groups based on their purchasing behavior, income, demographics, and shopping patterns. This project leverages unsupervised learning techniques to identify high-value customers, improve targeted marketing, and support business decision-making.
+A Machine Learning project that segments e-commerce customers into meaningful groups based on their purchasing behavior, income, demographics, and shopping patterns. The project leverages unsupervised learning techniques to identify high-value customers, optimize marketing campaigns, improve customer retention, and maximize business ROI through  customer segmentation.
 
 ---
 
