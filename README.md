@@ -25,6 +25,12 @@ The objective of this project is to analyze customer purchasing behavior and seg
 
 ---
 
+##  Live Demo
+
+###  Streamlit Deployment
+ **Live Application:** https://ecom-segmentation-engine.streamlit.app/
+ 
+---
 ## Features
 
 - Data Cleaning & Preprocessing
@@ -100,7 +106,42 @@ Cluster 1 is the most valuable customer segment because it has the highest incom
 │── LICENSE
 └── .gitignore
 ```
+---
 
+---
+
+## How to Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/banshitarout16/E.com-segmentation-sys.git
+cd E.com-segmentation-sys
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Train the Model 
+
+```bash
+python train_model.py
+```
+
+### 5. Run the Streamlit Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser at:
+
+```
+http://localhost:8501
+```
 ---
 
 ## License
