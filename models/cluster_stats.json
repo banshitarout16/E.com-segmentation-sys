@@ -1,0 +1,58 @@
+[
+  {
+    "cluster": 0,
+    "Income": 39680.58,
+    "Total_Spending": 221.96,
+    "NumWebPurchases": 3.15,
+    "NumStorePurchases": 4.14,
+    "NumCatalogPurchases": 0.97,
+    "NumDealsPurchases": 2.59,
+    "Recency": 48.91,
+    "Response": 0.08,
+    "Age": 55.67,
+    "Total_Children": 1.24,
+    "size": 905
+  },
+  {
+    "cluster": 1,
+    "Income": 72808.45,
+    "Total_Spending": 1236.59,
+    "NumWebPurchases": 5.69,
+    "NumStorePurchases": 8.66,
+    "NumCatalogPurchases": 5.5,
+    "NumDealsPurchases": 1.96,
+    "Recency": 49.2,
+    "Response": 0.17,
+    "Age": 59.49,
+    "Total_Children": 0.51,
+    "size": 534
+  },
+  {
+    "cluster": 2,
+    "Income": 36960.14,
+    "Total_Spending": 165.7,
+    "NumWebPurchases": 2.71,
+    "NumStorePurchases": 3.62,
+    "NumCatalogPurchases": 0.84,
+    "NumDealsPurchases": 2.59,
+    "Recency": 48.32,
+    "Response": 0.14,
+    "Age": 55.69,
+    "Total_Children": 1.27,
+    "size": 444
+  },
+  {
+    "cluster": 3,
+    "Income": 70722.68,
+    "Total_Spending": 1190.39,
+    "NumWebPurchases": 5.79,
+    "NumStorePurchases": 8.43,
+    "NumCatalogPurchases": 5.01,
+    "NumDealsPurchases": 1.86,
+    "Recency": 50.5,
+    "Response": 0.32,
+    "Age": 58.93,
+    "Total_Children": 0.46,
+    "size": 353
+  }
+]
